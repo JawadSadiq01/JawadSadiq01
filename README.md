@@ -22,5 +22,4 @@ Senior Software Engineer with 6+ years of experience in Ruby on Rails, React JS,
 🌱 Build web front-end in React Js  <br>
 
 ## ✨ Contact
-Jawad <br>
 creatorjawad@gmail.com <br>
