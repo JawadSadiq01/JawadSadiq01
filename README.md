@@ -21,6 +21,8 @@ Senior Software Engineer with 6+ years of experience in Ruby on Rails, React JS,
 🌱 Developed a new Ruby on Rails web application for a startup  <br>
 🌱 Build web front-end in React Js  <br>
 
+## ✨ Upwork
+https://www.upwork.com/freelancers/~01f227068c4c3098d5
+
 ## ✨ Contact
 creatorjawad@gmail.com <br>
-https://www.upwork.com/freelancers/~01f227068c4c3098d5 <br>
