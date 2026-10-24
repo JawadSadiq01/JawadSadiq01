@@ -24,5 +24,4 @@ Senior Software Engineer with 6+ years of experience in Ruby on Rails, React JS,
 ## ✨ Upwork
 https://www.upwork.com/freelancers/~01f227068c4c3098d5
 
-## ✨ Contact
-creatorjawad@gmail.com <br>
+<br>
